@@ -11,6 +11,6 @@ public class globalSizeCount : MonoBehaviour
     void Update()
     {
         InternalLength = neckLength;
-        neckDisplay.GetComponent<Text>().text = "Length: " + InternalLength;
+        neckDisplay.GetComponent<Text>().text = "Length: " + InternalLength + "m";
     }
 }

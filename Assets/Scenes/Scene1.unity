@@ -330,8 +330,8 @@ MonoBehaviour:
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 2
-    m_MaxSize: 50
-    m_Alignment: 0
+    m_MaxSize: 100
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
@@ -363,8 +363,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -14.4592, y: 145.074}
-  m_SizeDelta: {x: 188.9184, y: 66.148}
+  m_AnchoredPosition: {x: -0.000045776, y: 145.074}
+  m_SizeDelta: {x: 1101, y: 66.148}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1180175020
 GameObject:
@@ -603,8 +603,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -20.649994}
-  m_SizeDelta: {x: 275.4834, y: 41.290405}
+  m_AnchoredPosition: {x: -0.000078201, y: -21.502}
+  m_SizeDelta: {x: 330.2944, y: 43.0032}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1611265832
 MonoBehaviour:
@@ -626,7 +626,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Giraffe Clicker
+  m_text: Louison le Girafon
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
